@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('{{ url_for('static', filename='bg.jpg') }}');
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    text-align: center;
+    color: #fff;
+    max-width: 80%;
+}
+
+.content {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.movie-title {
+    font-size: 2em;
+    font-style: italic;
+    text-shadow: 2px 2px #000;
+    word-wrap: break-word;
+    white-space: normal;
+    max-width: 100%;
+}
+
+.movie-poster {
+    margin-top: 20px;
+    max-width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.logo {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 50px;
+    height: auto;
+    opacity: 0.8;
+}
