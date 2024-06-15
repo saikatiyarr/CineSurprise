@@ -2,6 +2,8 @@
 
 ## Description:
 
+note : the project is not currently running on AWS because it costs a lot of money but you are welcome to review the whole code.
+
 CineSurprise is an innovative movie recommendation system designed to help users discover new films. Using TMDB's database, CineSurprise analyzes worldwise user ratings, genres, and suggests popular movie recommendations. With its intuitive interface and seamless integration, CineSurprise makes it easy for users to explore a diverse range of movies and find their next cinematic adventure.
 
 This web application is built on Python3's Flask module, with the frontend developed using HTML and CSS for a sleek and user-friendly interface. To ensure scalability and portability, CineSurprise is **containerized using Docker**.
