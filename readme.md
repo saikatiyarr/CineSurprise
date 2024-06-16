@@ -2,7 +2,7 @@
 
 ## Description:
 
-note : the project is not currently running on AWS because it costs a lot of money but you are welcome to review the whole code.
+note : the project is not currently running on AWS because it costs a lot of money but you are welcome to review the codebase 🤗.
 
 CineSurprise is an innovative movie recommendation system designed to help users discover new films. Using TMDB's database, CineSurprise analyzes worldwise user ratings, genres, and suggests popular movie recommendations. With its intuitive interface and seamless integration, CineSurprise makes it easy for users to explore a diverse range of movies and find their next cinematic adventure.
 
